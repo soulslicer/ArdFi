@@ -120,32 +120,10 @@
 <wire x1="0" y1="0" x2="17.78" y2="0" width="0.2032" layer="20"/>
 <wire x1="17.78" y1="0" x2="17.78" y2="33.02" width="0.2032" layer="20"/>
 <wire x1="17.78" y1="33.02" x2="0" y2="33.02" width="0.2032" layer="20"/>
-<wire x1="15.494" y1="0.508" x2="15.494" y2="29.21" width="0.0762" layer="51"/>
-<circle x="1.27" y="8.89" radius="1.016" width="0.254" layer="21"/>
-<circle x="1.27" y="11.43" radius="1.016" width="0.254" layer="21"/>
-<circle x="1.27" y="16.51" radius="1.016" width="0.254" layer="21"/>
-<circle x="1.27" y="1.27" radius="1.016" width="0.254" layer="21"/>
-<circle x="16.51" y="1.27" radius="1.016" width="0.254" layer="21"/>
-<circle x="16.51" y="3.81" radius="1.016" width="0.254" layer="21"/>
 <text x="12.5222" y="0.9398" size="0.8128" layer="16" ratio="25" rot="MR0">10-12-11</text>
 <text x="-7.112" y="-2.921" size="2.286" layer="27">Arduino Pro Mini</text>
-<text x="3.429" y="0.889" size="1.016" layer="21" ratio="15" rot="R90">9</text>
-<text x="3.429" y="3.429" size="1.016" layer="21" ratio="15" rot="R90">8</text>
-<text x="3.429" y="6.096" size="1.016" layer="21" ratio="15" rot="R90">7</text>
 <text x="11.684" y="29.845" size="0.8128" layer="21" ratio="15">TXO</text>
 <text x="9.271" y="29.845" size="0.8128" layer="21" ratio="15">RXI</text>
-<text x="15.367" y="28.194" size="0.8128" layer="21" ratio="15" rot="R90">RAW</text>
-<text x="15.367" y="25.654" size="0.8128" layer="21" ratio="15" rot="R90">GND</text>
-<text x="15.367" y="23.114" size="0.8128" layer="21" ratio="15" rot="R90">RST</text>
-<text x="15.367" y="20.574" size="0.8128" layer="21" ratio="15" rot="R90">VCC</text>
-<text x="15.367" y="18.415" size="0.8128" layer="21" ratio="15" rot="R90">A3</text>
-<text x="15.367" y="15.875" size="0.8128" layer="21" ratio="15" rot="R90">A2</text>
-<text x="15.367" y="13.208" size="1.016" layer="21" ratio="15" rot="R90">A1</text>
-<text x="15.367" y="10.668" size="1.016" layer="21" ratio="15" rot="R90">A0</text>
-<text x="15.367" y="8.128" size="1.016" layer="21" ratio="15" rot="R90">13</text>
-<text x="15.367" y="5.588" size="1.016" layer="21" ratio="15" rot="R90">12</text>
-<text x="15.367" y="3.048" size="1.016" layer="21" ratio="15" rot="R90">11</text>
-<text x="15.367" y="0.508" size="1.016" layer="21" ratio="15" rot="R90">10</text>
 <text x="6.604" y="29.845" size="0.8128" layer="21" ratio="15">VCC</text>
 <text x="11.176" y="19.685" size="0.8128" layer="22" ratio="15" rot="MR90">A5</text>
 <text x="11.176" y="17.272" size="0.8128" layer="22" ratio="15" rot="MR90">A4</text>
