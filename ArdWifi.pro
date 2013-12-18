@@ -2,24 +2,24 @@ EAGLE AutoRouter Statistics:
 
 Job           : /Users/Raaj/Desktop/Projects/ArdWiFi/Arduino-Pro-Mini-v13/ArdWifi.brd
 
-Start at      : 22:04:33 (16/12/13)
-End at        : 22:04:33 (16/12/13)
-Elapsed time  : 00:00:00
+Start at      : 22:52:37 (17/12/13)
+End at        : 22:52:39 (17/12/13)
+Elapsed time  : 00:00:02
 
-Signals       :    30   RoutingGrid: 50 mil  Layers: 2
-Connections   :    39   predefined:  39 ( 22 Vias )
+Signals       :    41   RoutingGrid: 10 mil  Layers: 2
+Connections   :   105   predefined:  86 ( 22 Vias )
 
-Router memory :   8160
+Router memory :   238680
 
-Passname          :     Route
+Passname          :    Busses     Route
 
-Time per pass     :  00:00:00
-Number of Ripups  :         0
-max. Level        :         0
-max. Total        :         0
+Time per pass     :  00:00:00  00:00:02
+Number of Ripups  :         0        54
+max. Level        :         0         4
+max. Total        :         0         6
 
-Routed            :         0
-Vias              :         0
-Resolution        :   100.0 %
+Routed            :         1        19
+Vias              :         0        42
+Resolution        :    82.9 %   100.0 %
 
-Final             : 100.0% finished
+Final             : 87.6% finished. Polygons may have fallen apart.
